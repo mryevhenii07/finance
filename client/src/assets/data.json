@@ -1,0 +1,8 @@
+[
+    {"ticker":"AAPL","exchange":"NASDAQ","price":"133.04","change":"70.92","change_percent":"0.68","dividend":"0.92","yield":"1.66","last_trade_time":"2022-06-09T03:53:47.000Z"},
+{"ticker":"GOOGL","exchange":"NASDAQ","price":"153.76","change":"63.70","change_percent":"0.75","dividend":"0.28","yield":"0.28","last_trade_time":"2022-06-09T03:53:47.000Z"},
+{"ticker":"MSFT","exchange":"NASDAQ","price":"222.42","change":"182.91","change_percent":"0.03","dividend":"0.19","yield":"1.01","last_trade_time":"2022-06-09T03:53:47.000Z"},
+{"ticker":"AMZN","exchange":"NASDAQ","price":"215.43","change":"125.41","change_percent":"0.43","dividend":"0.04","yield":"1.11","last_trade_time":"2022-06-09T03:53:47.000Z"},
+{"ticker":"FB","exchange":"NASDAQ","price":"107.69","change":"181.74","change_percent":"0.96","dividend":"0.96","yield":"1.13","last_trade_time":"2022-06-09T03:53:47.000Z"},
+{"ticker":"TSLA","exchange":"NASDAQ","price":"276.81","change":"140.65","change_percent":"0.41","dividend":"0.72","yield":"1.67","last_trade_time":"2022-06-09T03:53:47.000Z"}
+]

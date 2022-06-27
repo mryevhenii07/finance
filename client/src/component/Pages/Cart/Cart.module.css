@@ -1,0 +1,5 @@
+.wrapCart{margin: 15px auto;
+width: 800px;min-height: 500px;}
+
+.wrapBtn{display: flex;justify-content: center;}
+.btn{ padding: 10px 20px;}
